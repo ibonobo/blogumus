@@ -1,0 +1,1 @@
+Roy Tanck has developed and released an animation of categories for Wordpress blogs and later on Amanda Farzani adapted the code for Blogger / Blogspot blogs. As the animation became popular, Roy has decided to stop providing free hosting for the scripts, making it necessary for bloggers to host it themselves.
